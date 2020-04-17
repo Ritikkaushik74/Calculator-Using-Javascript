@@ -1,2 +1,5 @@
-# Web
-Calculator using Javascript
+# Calculator
+
+Calculator using Javascript,HTML,CSS
+
+
